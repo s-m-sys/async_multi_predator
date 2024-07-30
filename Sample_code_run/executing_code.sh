@@ -7,7 +7,7 @@
 #	WARNING: Please ensure there are no spaces before/after the equal to (=) sign in the following statements
 #############----------------------#############
 # Compiling and generating the executable (machine level instruction)
-g++ SPP_active_vision_periodic.cpp -std=c++14 -O3 -fconcepts
+g++ SPP_code.cpp -std=c++14 -O3 -fconcepts
 
 mkdir particle_data
 
